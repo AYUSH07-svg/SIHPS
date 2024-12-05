@@ -51,5 +51,4 @@ Idea
  Twilio/SendGrid for notifications.
 
 
-## Dependencies
 
